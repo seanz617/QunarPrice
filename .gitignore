@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+build
+dist
+__pycache__
